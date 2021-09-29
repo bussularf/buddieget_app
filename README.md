@@ -1,7 +1,7 @@
 
 ![logo_blank](https://user-images.githubusercontent.com/61168030/118502093-c2707e00-b6ff-11eb-9b6b-20e1d9c0b9f8.png)
 
-2-week Web App @ LeWagon.   Project made with Ruby on Rails and deployed to Heroku at https://buddiegetapp.herokuapp.com/.
+2-week Web App @ LeWagon.   Project made with Ruby on Rails and deployed to Heroku at https://buddieget-app.herokuapp.com/.
 
 BuddieGet WebApp:
 
