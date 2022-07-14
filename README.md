@@ -3,6 +3,10 @@
 
 2-week Web App @ LeWagon.   Project made with Ruby on Rails and deployed to Heroku at https://buddieget-app.herokuapp.com/.
 
+Buddieget is an application that professionals can offer their services and also hire.
+
+As a user you can offer different services, check the location of the person offering the service, filter by category, give a review of the contracted service and view your orders, services offered and services sold in detail on the dashbord.
+
 BuddieGet WebApp:
 
 ![Captura de tela de 2021-05-17 09-27-34](https://user-images.githubusercontent.com/61168030/118501747-6f96c680-b6ff-11eb-84ca-ce5ad9fd0360.png)
